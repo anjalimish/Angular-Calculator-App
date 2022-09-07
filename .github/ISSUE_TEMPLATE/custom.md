@@ -2,8 +2,8 @@
 name: Custom issue template
 about: Describe this issue template's purpose here.
 title: ''
-labels: ''
-assignees: ''
+labels: bug
+assignees: anjalimish
 
 ---
 
@@ -13,7 +13,7 @@ The infinite loading once we click on submit button on "My Page"
 Intended outcome:
 The infinite loading on the profile should get resolved.
 
-## Todo @shovanch 
+## Todo 
 
 - [ ] Fix the issue on the local system
 - [ ] Do unit test
